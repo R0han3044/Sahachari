@@ -1,0 +1,96 @@
+## Website Development Prompt for "Sahachari" Using Streamlit and Python
+
+### Project Overview
+
+Build an online web application, **Sahachari**, that serves as a bilingual (Telugu-English) platform to bridge food, language, and culture. The application should be accessible, inclusive, and provide the following core features:
+
+- Recipe translation and text-to-speech (listen to recipes)
+- Ingredient recognition from images
+- Generation of traditional and modern dishes
+- Exploration of historic newspapers
+- Accessibility-first UI
+
+Initially, use a temporary dataset provided by the user; the app must be able to switch to an intern-contributed corpus later.
+
+### Prompt for Development
+
+#### Functional Requirements
+
+- **Multilingual Support:** Interface, search, and content must support both Telugu and English. Users should be able to toggle languages seamlessly.
+- **Recipe Module:**
+  - Display recipes from the temporary corpus data.
+  - Enable translation between Telugu and English.
+  - Provide a text-to-speech option for recipe instructions.
+- **Ingredient Recognition:**
+  - Allow users to upload food photos.
+  - Use image recognition (e.g., with a pre-trained ML model or third-party API) to identify ingredients.
+- **Recipe Generation:**
+  - Suggest traditional and modern dishes based on available ingredients or user query.
+- **Historic Newspapers:**
+  - Display snippets/sections relevant to food and culture.
+  - Include search and language toggle features.
+- **Accessibility:**
+  - Ensure readable fonts, color contrast, alt text for images, keyboard navigation, and screen reader support.
+
+#### Technical Stack
+
+- **Frontend:** Streamlit (for rapid Python-based web UI)
+- **Backend:** Python (data handling, translation, TTS, ML models)
+- **Data Storage:** Start with temporary local data (CSV/JSON), later migrate to database (e.g., SQLite, PostgreSQL)
+- **ML/Image Processing:** Integrate libraries such as TensorFlow, PyTorch, or use APIs (Google Vision, Azure, etc.)
+- **Translation & TTS:** Use libraries such as `googletrans`, `gTTS`, or related APIs
+- **File Handling:** Support file uploads (images, text documents)
+- **Deployment:** Deployable on Streamlit Cloud, Heroku, or custom server
+
+#### Example Streamlit App Structure
+
+```python
+import streamlit as st
+
+# Data load (for now, use temporary_data.json provided by user)
+import json
+with open('temporary_data.json', 'r', encoding='utf-8') as f:
+    corpus = json.load(f)
+
+st.title('Sahachari: Bilingual Food & Culture Companion')
+
+menu = st.sidebar.selectbox("Choose Feature", [
+    "Translate & Listen to Recipes",
+    "Recognize Ingredients from Image",
+    "Generate Dishes",
+    "Explore Historic Newspapers"
+])
+
+if menu == "Translate & Listen to Recipes":
+    # Display and translate recipes, with TTS option
+    pass  # fill in logic
+
+elif menu == "Recognize Ingredients from Image":
+    uploaded_file = st.file_uploader("Upload a food image", type=['jpg', 'png', 'jpeg'])
+    if uploaded_file:
+        pass  # Implement image recognition
+
+elif menu == "Generate Dishes":
+    # Suggest recipes based on simple ingredient input
+    pass
+
+elif menu == "Explore Historic Newspapers":
+    # Display relevant snippets
+    pass
+```
+
+#### Developer Guidance
+
+- Write modular and reusable code so future interns can easily integrate new modules and swap data sources.
+- Use well-documented functions and provide example data format/structure.
+- Make toggling between temporary and production corpus simple (e.g., via config or environment variable).
+- Prioritize accessibility and responsive design from the start.
+
+### Next Steps
+
+- Prepare the temporary dataset in a preferred format (CSV, JSON).
+- Set up a Streamlit app skeleton using above structure.
+- Integrate open-source or API-based translation, TTS, and image recognition solutions.
+- Use clear sample data, labels, and error messages for testing.
+
+This prompt can be given directly to your developers or shared with interns as a starting point for building and iterating on the Sahachari platform.
