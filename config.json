@@ -1,0 +1,33 @@
+{
+  "data_source": "temporary",
+  "api_settings": {
+    "google_translate_enabled": true,
+    "google_vision_enabled": true,
+    "azure_vision_enabled": false,
+    "openai_enabled": false,
+    "spoonacular_enabled": false
+  },
+  "app_settings": {
+    "default_language": "english",
+    "max_file_size_mb": 10,
+    "supported_image_formats": [
+      "jpg",
+      "jpeg",
+      "png"
+    ],
+    "max_text_length": 5000,
+    "cache_duration": 3600
+  },
+  "accessibility_settings": {
+    "high_contrast_mode": false,
+    "large_text_mode": false,
+    "screen_reader_mode": false,
+    "keyboard_navigation": true
+  },
+  "ui_settings": {
+    "theme": "light",
+    "sidebar_expanded": true,
+    "show_accessibility_controls": true,
+    "show_statistics": false
+  }
+}

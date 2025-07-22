@@ -1,0 +1,114 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Traditional Dal Tadka",
+      "ingredients": "Yellow lentils (toor dal) - 1 cup, Onion - 1 medium, Tomato - 1 large, Garlic - 4 cloves, Ginger - 1 inch piece, Green chilies - 2, Turmeric powder - 1/2 tsp, Cumin seeds - 1 tsp, Mustard seeds - 1/2 tsp, Hing (asafoetida) - pinch, Oil/ghee - 2 tbsp, Salt to taste, Coriander leaves for garnish",
+      "instructions": "1. Wash and soak toor dal for 30 minutes. 2. In a pressure cooker, add dal, turmeric, and 3 cups water. Cook for 3-4 whistles. 3. Heat oil in a pan, add cumin and mustard seeds. 4. Add hing, chopped garlic, ginger, and green chilies. 5. Add chopped onions, cook until golden. 6. Add tomatoes and cook until soft. 7. Add cooked dal, salt, and simmer for 5 minutes. 8. Garnish with coriander leaves and serve hot with rice or roti.",
+      "cooking_time": "45 minutes",
+      "difficulty": "Easy",
+      "language": "english",
+      "cuisine": "Indian",
+      "servings": "4",
+      "category": "Main Course"
+    },
+    {
+      "id": 2,
+      "name": "సాంప్రదాయ పప్పు తడ్కా",
+      "ingredients": "కందిపప్పు - 1 కప్పు, ఉల్లిపాయ - 1 మధ్యస్థం, టమాటా - 1 పెద్దది, వెల్లుల్లి - 4 రెబ్బలు, అల్లం - 1 అంగుళం ముక్క, పచ్చిమిర్చులు - 2, పసుపు పొడి - 1/2 చెంచా, జీలకర్ర - 1 చెంచా, ఆవాలు - 1/2 చెంచా, హింగు - చిటికెడు, నూనె/నెయ్యి - 2 చెంచాలు, ఉప్పు రుచికి, కొత్తిమీర ఆకులు అలంకరణకు",
+      "instructions": "1. కందిపప్పును కడిగి 30 నిమిషాలు నానబెట్టండి. 2. ప్రెషర్ కుక్కర్‌లో పప్పు, పసుపు, 3 కప్పుల నీరు వేసి 3-4 విజిల్స్ వండాలి. 3. పాన్‌లో నూనె వేసి జీలకర్ర, ఆవాలు వేయండి. 4. హింగు, వెల్లుల్లి, అల్లం, పచ్చిమిర్చులు వేయండి. 5. ఉల్లిపాయలు వేసి బంగారు రంగు వచ్చే వరకు వేయించండి. 6. టమాటాలు వేసి మెత్తబడే వరకు వండండి. 7. వండిన పప్పు, ఉప్పు వేసి 5 నిమిషాలు కదిలించండి. 8. కొత్తిమీర ఆకులతో అలంకరించి అన్నం లేదా రోటీతో వేడిగా పెట్టండి.",
+      "cooking_time": "45 నిమిషాలు",
+      "difficulty": "సులభం",
+      "language": "telugu",
+      "cuisine": "తెలుగు వంటకాలు",
+      "servings": "4",
+      "category": "ప్రధాన వంటకం"
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Biryani",
+      "ingredients": "Basmati rice - 2 cups, Mixed vegetables (carrot, beans, peas, potato) - 2 cups, Onions - 2 large, Yogurt - 1/2 cup, Ginger-garlic paste - 2 tbsp, Biryani masala powder - 2 tbsp, Red chili powder - 1 tsp, Turmeric - 1/2 tsp, Mint leaves - 1/2 cup, Coriander leaves - 1/2 cup, Fried onions - 1/2 cup, Ghee - 4 tbsp, Oil - 2 tbsp, Salt to taste, Saffron - pinch, Warm milk - 2 tbsp",
+      "instructions": "1. Soak basmati rice for 30 minutes. 2. Heat oil and ghee, fry onions until golden brown. 3. Add ginger-garlic paste, cook for 2 minutes. 4. Add vegetables, yogurt, and all spices. Cook for 10 minutes. 5. In another pot, boil water with whole spices, add rice and cook 70% done. 6. Layer the partially cooked rice over vegetables. 7. Sprinkle mint, coriander, fried onions, and saffron soaked in milk. 8. Cover and cook on high heat for 2 minutes, then simmer for 45 minutes. 9. Let it rest for 10 minutes before serving.",
+      "cooking_time": "1 hour 30 minutes",
+      "difficulty": "Medium",
+      "language": "english",
+      "cuisine": "Indian",
+      "servings": "6",
+      "category": "Main Course"
+    },
+    {
+      "id": 4,
+      "name": "పులిహోర",
+      "ingredients": "అన్నం - 3 కప్పులు, పులిమామిడి - నిమ్మ పరిమాణం, కరివేపాకు - 2 కొమ్మలు, వేరుశనగలు - 2 చెంచాలు, ఉరుద్దాలు - 1 చెంచా, కొబ్బరి - 2 చెంచాలు, ఎండు మిర్చులు - 4, ఆవాలు - 1/2 చెంచా, జీలకర్ర - 1/2 చెంచా, హింగు - చిటికెడు, పసుపు - 1/2 చెంచా, నూనె - 3 చెంచాలు, ఉప్పు రుచికి",
+      "instructions": "1. పులిని నీటిలో నానబెట్టి రసం తీసుకోండి. 2. పాన్‌లో నూనె వేసి ఆవాలు, జీలకర్ర, ఉరుద్దాలు, వేరుశనగలు వేయండి. 3. కరివేపాకు, ఎండు మిర్చులు, హింగు వేయండి. 4. కొబ్బరి కాయ కొద్దిగా వేయించండి. 5. పులిరసం, పసుపు, ఉప్పు వేసి మరిగించండి. 6. అన్నాన్ని వేసి బాగా కలపండి. 7. 5 నిమిషాలు కదిలించి దించేయండి.",
+      "cooking_time": "30 నిమిషాలు",
+      "difficulty": "సులభం",
+      "language": "telugu",
+      "cuisine": "తెలుగు వంటకాలు",
+      "servings": "4",
+      "category": "అన్నం రకాలు"
+    }
+  ],
+  "newspapers": [
+    {
+      "id": 1,
+      "title": "Traditional Cooking Methods in Indian Households",
+      "content": "In the early 1900s, Indian households relied on traditional cooking methods that have been passed down through generations. Clay pots were the primary cooking vessels, which imparted a unique earthy flavor to the food. Wood-fired stoves were common, and the slow cooking process allowed spices to blend perfectly. Women would wake up early to prepare elaborate meals using techniques like tempering (tadka), pressure cooking in earthen pots, and sun-drying vegetables for preservation. These methods not only enhanced flavors but also retained nutritional value, making meals both delicious and healthy.",
+      "date": "1923-03-15",
+      "source": "Indian Heritage Gazette",
+      "language": "english",
+      "category": "food_culture",
+      "region": "South India"
+    },
+    {
+      "id": 2,
+      "title": "భారతీయ ఇళ్లల్లో సాంప్రదాయ వంట పద్ధతులు",
+      "content": "1900లలో భారతీయ కుటుంబాలు తరతరాలుగా వచ్చిన సాంప్రదాయ వంట పద్ధతులను అనుసరించేవారు. మట్టి పాత్రలు ప్రధాన వంట పాత్రలుగా ఉండేవి, అవి ఆహారానికి ప్రత్యేక మట్టి రుచిని ఇచ్చేవి. కట్టెల పొయ్యిలు సాధారణంగా ఉండేవి, మెల్లిగా వండే పద్ధతి వల్ల మసాలాలు బాగా కలిసిపోయేవి. స్త్రీలు తెల్లవారుజామున లేచి తడ్కా, మట్టిపాత్రల్లో ఒత్తిడితో వండడం, కూరగాయలను ఎండబెట్టి భద్రపరచడం వంటి పద్ధతులను ఉపయోగించి విస్తృతమైన భోజనం తయారు చేసేవారు. ఈ పద్ధతులు రుచిని మెరుగుపరచడమే కాకుండా పోషక విలువలను కూడా కాపాడేవి.",
+      "date": "1923-03-15",
+      "source": "భారతీయ వారసత్వ వార్తాపత్రిక",
+      "language": "telugu",
+      "category": "ఆహార_సంస్కృతి",
+      "region": "దక్షిణ భారతదేశం"
+    },
+    {
+      "id": 3,
+      "title": "Spice Trade and Its Impact on Regional Cuisines",
+      "content": "The ancient spice trade routes that passed through India significantly influenced regional cooking styles. Coastal regions like Kerala became hubs for pepper, cardamom, and cinnamon trade, which naturally incorporated these spices into local cuisine. The Malabar Coast saw the development of dishes that balanced multiple spices, creating complex flavor profiles. Inland regions adapted their cooking to make the most of locally available ingredients while incorporating traded spices sparingly due to their high value. This economic factor shaped portion sizes and cooking techniques, with households developing methods to maximize flavor from minimal spice quantities.",
+      "date": "1889-07-22",
+      "source": "Colonial Trade Journal",
+      "language": "english",
+      "category": "food_history",
+      "region": "Western India"
+    },
+    {
+      "id": 4,
+      "title": "మసాలా వ్యాపారం మరియు ప్రాంతీయ వంటకాలపై దాని ప్రభావం",
+      "content": "భారతదేశం గుండా వెళ్ళిన పురాతన మసాలా వ్యాపార మార్గాలు ప్రాంతీయ వంట శైలులను గణనీయంగా ప్రభావితం చేశాయి. కేరళ వంటి తీర ప్రాంతాలు మిరియాలు, ఏలకులు, దాల్చినచెక్క వ్యాపార కేంద్రాలుగా మారాయి, ఇవి సహజంగానే స్థానిక వంటకాల్లో కలిసిపోయాయి. మలబార్ తీరంలో అనేక మసాలాలను సమతుల్యంగా కలిపే వంటకాలు అభివృద్ధి చెందాయి, సంక్లిష్ట రుచి రూపాలను సృష్టించాయి. లోతట్టు ప్రాంతాలు స్థానికంగా అందుబాటులో ఉన్న పదార్థాలను ఉపయోగించుకుని, వ్యాపారం చేయబడిన మసాలాలను వాటి అధిక విలువ కారణంగా తక్కువగా ఉపయోగించే విధంగా వంటను అభివృద్ధి చేసుకున్నాయి.",
+      "date": "1889-07-22",
+      "source": "వలస వ్యాపార జర్నల్",
+      "language": "telugu",
+      "category": "ఆహార_చరిత్ర",
+      "region": "పశ్చిమ భారతదేశం"
+    },
+    {
+      "id": 5,
+      "title": "Festival Foods and Their Cultural Significance",
+      "content": "Every festival in Indian culture has specific foods associated with it, reflecting the deep connection between cuisine and spirituality. During Diwali, families prepare an array of sweets like laddu, barfi, and halwa, believing that sharing sweet foods brings prosperity and happiness. Holi celebrations feature drinks like thandai and bhang, along with savory snacks. The preparation of these festival foods often involves the entire family, passing down recipes and techniques from one generation to the next. These culinary traditions serve as important cultural markers, maintaining community bonds and preserving ancestral knowledge about ingredients, cooking methods, and food presentation.",
+      "date": "1901-10-30",
+      "source": "Cultural Studies Weekly",
+      "language": "english",
+      "category": "festivals",
+      "region": "Pan-India"
+    },
+    {
+      "id": 6,
+      "title": "పండుగల ఆహారాలు మరియు వాటి సాంస్కృతిక ప్రాముఖ్యత",
+      "content": "భారతీయ సంస్కృతిలో ప్రతి పండుగకు ప్రత్యేక ఆహారాలు ఉంటాయి, ఇవి వంటకాలు మరియు ఆధ్యాత్మికత మధ్య లోతైన సంబంధాన్ని ప్రతిబింబిస్తాయి. దీపావళిలో కుటుంబాలు లడ్డు, బర్ఫీ, హల్వా వంటి తీపి పదార్థాల శ్రేణిని తయారు చేస్తారు, తీపి ఆహారాలను పంచుకోవడం శ్రేయస్సు మరియు ఆనందాన్ని తెస్తుందని నమ్ముతారు. హోలీ వేడుకలలో తండాయ్ మరియు భాంగ్ వంటి పానీయాలు, రుచికరమైన చిరుతిండితో పాటు ఉంటాయి. ఈ పండుగ ఆహారాల తయారీలో తరచుగా మొత్తం కుటుంబం పాల్గొంటుంది, ఒక తరం నుండి మరొక తరానికి వంటకాలు మరియు పద్ధతులను అందజేస్తుంది. ఈ వంట సంప్రదాయాలు ముఖ్యమైన సాంస్కృతిక గుర్తులుగా పనిచేస్తాయి, సమాజ బంధాలను కొనసాగిస్తాయి మరియు పదార్థాలు, వంట పద్ధతులు మరియు ఆహార ప్రదర్శన గురించి పూర్వీకుల జ్ఞానాన్ని సంరక్షిస్తాయి.",
+      "date": "1901-10-30",
+      "source": "సాంస్కృతిక అధ్యయనాల వారపత్రిక",
+      "language": "telugu",
+      "category": "పండుగలు",
+      "region": "అఖిల భారతదేశం"
+    }
+  ]
+}
