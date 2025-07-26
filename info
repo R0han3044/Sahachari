@@ -32,3 +32,11 @@ waitForPort = 5000
 [[ports]]
 localPort = 5000
 externalPort = 80
+
+googletrans==4.0.0rc1
+requests
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn        
