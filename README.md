@@ -1,7 +1,3 @@
-Absolutely! Here's a **refined and professional version** of your Sahachari system architecture and overview, with improved clarity, flow, formatting, and wording — while preserving your project's vision and features.
-
----
-
 # 🌐 Sahachari – A Bilingual Cultural & Culinary Companion
 
 ### **Bridging Food, Language & Culture Through Inclusive AI**
